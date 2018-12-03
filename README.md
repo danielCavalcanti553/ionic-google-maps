@@ -8,4 +8,5 @@ https://console.developers.google.com/
 ionic cordova plugin add cordova-plugin-googlemaps --variable API_KEY_FOR_ANDROID="GOOGLE_MAPS_API_KEY_AQUI" --variable API_KEY_FOR_IOS="GOOGLE_MAPS_API_KEY_AQUI"
 npm install --save @ionic-native/google-maps
 
-
+## Página
+ionic generate page Maps
