@@ -10,3 +10,16 @@ npm install --save @ionic-native/google-maps
 
 ## Página
 ionic generate page Maps
+
+
+## App Module Ts
+###imports -> HttpClientModule
+
+import { HttpClientModule } from "@angular/common/http";
+
+###providers -> GoogleMaps, MapsService
+
+import { MapsService } from '../services/maps.service';
+
+import { MapsService } from '../services/maps.service';
+                                                    
