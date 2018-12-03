@@ -16,8 +16,8 @@ import { MapsService } from '../../services/maps.service';
 
 @IonicPage()
 @Component({
-  selector: 'page-categorias',
-  templateUrl: 'categorias.html',
+  selector: 'page-maps',
+  templateUrl: 'maps.html',
 })
 export class MapsPage {
   @ViewChild('map') element;
